@@ -10,6 +10,7 @@ Part list:
 + 16x	0805 10k resistors
 + 1x	MCP23S17-E/SO
 + 1x	CD74HC4017EE4
++ 1x    JAE AA01B-S040VA1 receptacle
 
 # Files
 
